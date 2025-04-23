@@ -48,15 +48,10 @@ energyproject/
 │   └── src/main/java/at/uastw/energy/...  # JavaFX frontend
 ```
 
-## 📋 Milestone Requirements (✔️ Met)
+## 📋 Milestone Requirements
 
 - [x] Every component can be started independently
 - [x] System builds and runs with no errors
 - [x] Spring Boot used for REST API
 - [x] JavaFX used for GUI
 - [x] Example data used (no persistent DB)
-- [x] GitHub repository ready for submission
-
----
-
-© 2025 – Created for distributed systems milestone
