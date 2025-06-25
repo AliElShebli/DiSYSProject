@@ -1,0 +1,5 @@
+at\uastw\energy\common\dto\PercentageUpdateMessage.class
+at\uastw\energy\common\config\RabbitConfig.class
+at\uastw\energy\common\dto\UsageUpdateMessage.class
+at\uastw\energy\common\dto\ProducerMessage.class
+at\uastw\energy\common\dto\UserMessage.class
